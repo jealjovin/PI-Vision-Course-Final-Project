@@ -1,0 +1,30 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+.my-custom-div {
+	color: white;
+	background-color: green;
+	text-align: left;
+	border-radius: 5px;
+}
+
+.u-kpivalue h1,
+.u-kpivalue h5,
+.u-kpivalue h6{
+	text-align: left;
+}
+
+.u-kpivalue h1 {
+	font-size: 35px;
+}
+
+.u-kpivalue h5 {
+	font-size: 15px;
+}
+
+.u-kpivalue h6 {
+	font-size: 10px;
+}
