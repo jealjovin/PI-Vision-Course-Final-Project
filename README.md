@@ -6,6 +6,7 @@ The idea is to show the value and evaluate is the current value is over or under
 
 You can config the low and Hi value, number of digits, background color and border radius using the configuration pane.
 
+Also, the styling can be changed using an external css file
 
 
 
